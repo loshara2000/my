@@ -35,10 +35,6 @@ README.md
 ~ git init
 Initialized empty Git repository in C:/MSYS2_Cmder/vendor/msys64/home/test/test-project/.git/
 
-~ touch README.md
-
-~ git add README.md
-
 ~ git commit -m "Initial commit."
 [master (root-commit) 3637301] Initial commit.
  1 file changed, 0 insertions(+), 0 deletions(-)
