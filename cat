@@ -1,0 +1,19 @@
+class My_class:
+  pass
+  class <cat>:
+  <cat> 
+  
+  loh = cat()
+  
+     class cat:
+  def drink_milk(self):
+     pass
+ loh.move()
+ loh.drink_milk()
+     class cat:
+  def drink_milk(self):
+    print('drink milk!')
+  def dinner(self):
+    self.move()
+    print('I'm in the kitchen!')
+    self.drink_milkc()
